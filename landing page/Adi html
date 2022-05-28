@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Page</title>
+    <link rel="stylesheet" href="Adi.css">
+</head>
+<body>
+    <header>
+        <h1>Book Now</h1>
+    </header>
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">Movies</a>
+        <a href="#">Schedule</a>
+        <a href="#">Play</a>
+        <a href="#">Comedy Shows</a>
+    </nav>
+    <main>
+        <section>
+            <h2><br> Hurry up...!<br></h2>
+            <img src="https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@heart_202006300400.png,ox-24,oy-617,ow-29:ote-NzklICA0OGsgdm90ZXM%3D,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00109831-lwrvbrwqag-portrait.jpg" width="330px" alt="Bhool Bhulaiya 2">
+           <img src="https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@heart_202006300400.png,ox-24,oy-617,ow-29:ote-OTMlICA4NzZrIHZvdGVz,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00098647-yxuvqdfgdx-portrait.jpg"width="330px" alt="Angrezi Medium">
+           <img src="https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@like_202006280402.png,ox-24,oy-617,ow-29:ote-MTZrIGxpa2Vz,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00104574-jevctkazjl-portrait.jpg" width="330px" alt="Sarsenapatti hambirrao">
+           <img src="https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@heart_202006300400.png,ox-24,oy-617,ow-29:ote-OTclICAyMGsgdm90ZXM%3D,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00327394-baflhanbvl-portrait.jpg" width="330px" alt="Dharmaveer">
+        </section>
+        <section>
+            <br>
+            <h3>The Best Of Us</h3>
+            <br>
+            <img src="https://assets-in.bmscdn.com/discovery-catalog/collections/tr:w-800,h-800:ote-MTc1KyBFdmVudHM%3D,otc-FFFFFF,otf-Roboto,ots-64,ox-48,oy-320,ott-b:w-300:q-80/workshops-collection-202007231330.png" width="285px"  alt=".">
+            <img src="https://assets-in.bmscdn.com/discovery-catalog/collections/tr:w-800,h-800:ote-OSBFdmVudHM%3D,otc-FFFFFF,otf-Roboto,ots-64,ox-48,oy-320,ott-b:w-300:q-80/fitness-collection-2020081150.png" width="285px" alt=".">
+            <img src="https://assets-in.bmscdn.com/discovery-catalog/collections/tr:w-800,h-800:ote-MTArIEV2ZW50cw%3D%3D,otc-FFFFFF,otf-Roboto,ots-64,ox-48,oy-320,ott-b:w-300:q-80/kids-collection-202007220710.png" width="285px" alt=".">
+            <img src="https://assets-in.bmscdn.com/discovery-catalog/collections/tr:w-800,h-800:ote-MTAgRXZlbnRz,otc-FFFFFF,otf-Roboto,ots-64,ox-48,oy-320,ott-b:w-300:q-80/comedy-shows-collection-202007220710.png" width="285px" alt=".">
+            <img src="https://assets-in.bmscdn.com/discovery-catalog/collections/tr:w-800,h-800:ote-MSBFdmVudA%3D%3D,otc-FFFFFF,otf-Roboto,ots-64,ox-48,oy-320,ott-b:w-300:q-80/music-shows-collection-202007220710.png" width="285px" alt=".">
+        </section>
+        <section>
+            <img src="https://assets-in.bmscdn.com/discovery-catalog/collections/tr:w-1440,h-120:q-80/premiere-rupay-banner-web-collection-202104230555.png" alt="">
+            <img src="https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:oi-discovery-catalog@@icons@@premiere-icon.png,ox-322,oy-20:q-80/et00328297-qfxxylfyhu-portrait.jpg" width="270px" alt="">
+            <img src="https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:q-80/et00310790-srjclbbhpk-portrait.jpg" width="300px" alt="">
+            <img src="https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:oi-discovery-catalog@@icons@@premiere-icon.png,ox-322,oy-20:q-80/et00325459-fnujnafyrc-portrait.jpg" width="250px" alt="">
+            <img src="https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:oi-discovery-catalog@@icons@@premiere-icon.png,ox-322,oy-20:q-80/et00114897-ajgcrwgqvc-portrait.jpg" width="270px" alt="">
+            <img src="https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:oi-discovery-catalog@@icons@@premiere-icon.png,ox-322,oy-20:q-80/et00078838-dyjbrwbjpd-portrait.jpg" width="270px" alt="">
+        </section>
+            <section>
+                <h2>Our Founder</h2>
+                
+                <h3>Aditi Naik</h3>
+                <a href="https://instagram.com/_giri_.168?utm_medium=copy_link" target="_blank" rel="noopener noreferrer">Instagram</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+                <a href="http://twitter.com/Giri1386?t=uQLBdQrYPFFfrxO2jmGMYA&s=09" target="_blank" rel="noopener noreferrer">Twitter</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+                <a href="https://instagram.com/__aditeeenaik__?utm_medium=copy_link" target="_blank" rel="noopener noreferrer">Telegram</a>
+                <p>#Engineering Student #Indianyouth #Farmer <br>
+                    Youth is a future of India. <br>
+                    Farmer is backbone of our Country....✌</p>            
+            </section>
+    </main>
+    <footer>
+        <a href="#">24/7 Service</a>
+        <a href="#">Resend booking confirmation</a>
+        <a href="#">Terms of Use</a>
+        <a href="#">Privacy Policy</a>
+        <a href="#">Refund Policy </a>
+        <a href="#">&copy;Copy Right</a>
+  </footer>
+</body>
+</html>
